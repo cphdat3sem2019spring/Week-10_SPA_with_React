@@ -5,7 +5,7 @@
 - Install Node (important, install the LTS-version): https://nodejs.org/en/download/ 
 - Install a new editor/IDE for JavaScript development, I suggest Visual Studio Code: https://code.visualstudio.com/download 
 
-## Monday - ES-6 required for React Single Page Applications + React intro
+## Monday - Single Page Applications with React - intro
 ### Before this lesson you should
 - [:tv: Watch this video about SPA (16 min)]( https://www.youtube.com/watch?v=F_BYg2QGsC0) (If already done in period-2, skim only)
 - [:tv: Watch this video that compares Frameworks (23 min.)](https://www.youtube.com/watch?v=SWZ_4YBFBhs) (compares React, Angular and Vue)
@@ -39,9 +39,9 @@ Read/skim these sections from the Facebook tutorial:
 
 ## Wednesday - fetch, Promises and async-await
 #### Read
-- Read (again) the two links from yesterday, related to "lifting state up"
-- Read [this article](https://davidwalsh.name/async-await) about how to use fetch with the new JS construct async-await
-- Skim [this](https://docs.google.com/document/d/1hF9P65v_AJKCjol_gFkm3oZ1eVTuOKc15V6pcb3iFa8/edit?usp=sharing) again 
+- TBD :book: Read (again) the two links from yesterday, related to "lifting state up"
+- [fetc, with async, await (15 min.)](https://davidwalsh.name/async-await) about how to use fetch with the new JS construct async-await
+- [Promises and Fetch Guidelines. Skim and bookmark (15 min.)](https://docs.google.com/document/d/1hF9P65v_AJKCjol_gFkm3oZ1eVTuOKc15V6pcb3iFa8/edit?usp=sharing) again 
 
 #### Exercises
 [API interaction using fetch](https://docs.google.com/document/d/1Yv7bXR6ZgL_ZXJWvzawmTVD3tN42rJktulqxhGV-HuE/edit?usp=sharing)
