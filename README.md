@@ -40,8 +40,8 @@ Read/skim these sections from the Facebook tutorial:
 ## Wednesday - fetch, Promises and async-await
 #### Read
 - TBD :book: Read (again) the two links from yesterday, related to "lifting state up"
-- [fetc, with async, await (15 min.)](https://davidwalsh.name/async-await) about how to use fetch with the new JS construct async-await
-- [Promises and Fetch Guidelines. Skim and bookmark (15 min.)](https://docs.google.com/document/d/1hF9P65v_AJKCjol_gFkm3oZ1eVTuOKc15V6pcb3iFa8/edit?usp=sharing) again 
+- [:book: fetch, with async, await (15 min.)](https://davidwalsh.name/async-await) about how to use fetch with the new JS construct async-await
+- [:book: Promises and Fetch Guidelines. Skim and bookmark (15 min.)](https://docs.google.com/document/d/1hF9P65v_AJKCjol_gFkm3oZ1eVTuOKc15V6pcb3iFa8/edit?usp=sharing) again 
 
 #### Exercises
 [API interaction using fetch](https://docs.google.com/document/d/1Yv7bXR6ZgL_ZXJWvzawmTVD3tN42rJktulqxhGV-HuE/edit?usp=sharing)
