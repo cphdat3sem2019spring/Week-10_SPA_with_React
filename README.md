@@ -16,8 +16,8 @@ Thease two videos are really (as in REALLY) good, and if you want to get a head 
 - [:tv: Watch this video about SPA (16 min)]( https://www.youtube.com/watch?v=F_BYg2QGsC0) (If already done in period-2, skim only)
 - [:tv: Watch this video that compares Frameworks (23 min.)](https://www.youtube.com/watch?v=SWZ_4YBFBhs) (compares React, Angular and Vue)
 - [:book: Read about create-react-app (5 min.)](https://github.com/facebook/create-react-app/blob/master/README.md#creating-an-app) (how we are going to setup our React-apps)
-- TBD [:tv: Watch and CODE ALONG step 1-7 from this tutorial](https://egghead.io/lessons/react-use-create-react-app-to-setup-a-simple-react-app) Important: A few things have changed since this video. Skip this step: `npm i create-react-app -g` and when you create the app, do it like this (observe the npx): `npx create-react-app my-app` 
-- :book: Read/skim these sections in Facebook's tutorial (will be referred to from the exercises) [Components and Props (10 min.)](https://reactjs.org/docs/components-and-props.html) , [State and LifeCycle (10 min.)](https://reactjs.org/docs/state-and-lifecycle.html)
+- :tv: Watch as much as you can find time, the two videos given in the "head start" section
+- :book: Skim these sections in Facebook's tutorial [Components and Props (10 min.)](https://reactjs.org/docs/components-and-props.html) , [State and LifeCycle (10 min.)](https://reactjs.org/docs/state-and-lifecycle.html)
 
 #### Exercises
 - [Exercises Day1](https://docs.google.com/document/d/1TsqQdtjqylsTo2yU5X5YIJJx0IoZ13_HrFI6LW3I43M/edit?usp=sharing)
