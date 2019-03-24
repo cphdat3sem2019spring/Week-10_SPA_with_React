@@ -1,7 +1,15 @@
 # Week-10 Single Page Applications with React
 
 ### [snippet-file](https://docs.google.com/document/d/1NYl8v1M05yXElnNwNfcy1zdpvhXU5zx2wS65LZ4WtIk/edit?usp=sharing)
-### # Before the start of this period install [Visual Studio Code]( https://code.visualstudio.com/download ) and [Node](https://nodejs.org/en/download/) (the LTS-version) 
+
+#### Before the start of this period install [Visual Studio Code]( https://code.visualstudio.com/download ) and [Node](https://nodejs.org/en/download/) (the LTS-version) 
+
+### React, how to to get a fantastic head start with React :grinning:
+
+Thease two videos are really (as in REALLY) good, and if you want to get a head start with React I really recommend that you give them a try before first lesson.
+- [JavaScript for React Developers (50 min. for the video, but also code some of the examples while you watch)](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
+- [React Tutorial with Examples (2.25 hours - try to watch at least the first 30 min.)](https://www.youtube.com/watch?v=Ke90Tje7VS0&t=439s)
+
 
 ## Monday - Single Page Applications with React - intro
 ### Before this lesson you should
