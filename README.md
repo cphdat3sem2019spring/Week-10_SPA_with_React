@@ -6,7 +6,7 @@
 
 ### React, how to to get a fantastic head start with React :grinning:
 
-Thease two videos are really (as in REALLY) good, and if you want to get a head start with React I really recommend that you give them a try before first lesson.
+Thease two videos are really (as in REALLY) good, and if you want to get a head start with required JavaScript and React, I really recommend that you give them a try before first lesson (and continue throughout the week).
 - [JavaScript for React Developers (50 min. for the video, but also code some of the examples while you watch)](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
 - [React Tutorial with Examples (2.25 hours - try to watch at least the first 30 min.)](https://www.youtube.com/watch?v=Ke90Tje7VS0&t=439s)
 
