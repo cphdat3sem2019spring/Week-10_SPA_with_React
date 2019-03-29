@@ -53,14 +53,14 @@ Read/skim these sections from the Facebook tutorial:
 #### Exercises
 [API interaction using fetch](https://docs.google.com/document/d/1Yv7bXR6ZgL_ZXJWvzawmTVD3tN42rJktulqxhGV-HuE/edit?usp=sharing)
 
-## Handling Large amounts of data client and/or server-side
+## Recap on Threads, Futures, Callables and  Asynchronous Rest with Jax-rs,
+__Today we will recap on thread programming as you were introduced to last semester. More specifically we will introduce Callables and Futures in combination with Jax-rs's Asynchronous Server API. We need all this to make endpoints, which, in order to make a response, must communicate with a number of external API's__
+
 #### Read
-[Pagination in electronic display](https://en.wikipedia.org/wiki/Pagination#Pagination_in_electronic_display)
-Play around with some of the examples [here](https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.html) and skim the [documentation](https://react-bootstrap-table.github.io/react-bootstrap-table2/docs/about.html) for the library we will for this lesson
+TBD
 
 #### Exercises
-[Handling large amounts of data](https://docs.google.com/document/d/15XRzm0SlW13eRUvQq8u19oAM9Jo2_iderDsnWlIBjsY/edit?usp=sharing)
-
+TBD
 ## Friday
 [StudyPoint-exercises](https://docs.google.com/document/d/1MDLu8cWJCAokqhsPY_8jJu_RyUrJyLoh7HFXdz0M2oY/edit?usp=sharing)
 
