@@ -62,7 +62,10 @@ TBD
 #### Exercises
 TBD
 ## Friday
+TBD
+<!--
 [StudyPoint-exercises](https://docs.google.com/document/d/1MDLu8cWJCAokqhsPY_8jJu_RyUrJyLoh7HFXdz0M2oY/edit?usp=sharing)
+-->
 
 ## Business competences
 
