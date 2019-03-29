@@ -20,7 +20,7 @@ Thease two videos are really (as in REALLY) good, and if you want to get a head 
 - :book: Skim these sections in Facebook's tutorial [Components and Props (10 min.)](https://reactjs.org/docs/components-and-props.html) , [State and LifeCycle (10 min.)](https://reactjs.org/docs/state-and-lifecycle.html)
 
 #### Exercises
-- [Exercises Day1](https://docs.google.com/document/d/1TsqQdtjqylsTo2yU5X5YIJJx0IoZ13_HrFI6LW3I43M/edit?usp=sharing)
+- [Exercises Day1](https://docs.google.com/document/d/1tFTMcDJsZjr23NSqYshprhWs3Ju4lYgbL8m39zYUqjg/edit?usp=sharing)
 
 #### Slides
 - [Single Page Application, SPA-Frameworks + intro to React](http://sem3slides.mydemos.dk/react1/react1.html#1)
