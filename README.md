@@ -39,7 +39,7 @@ Read/skim these sections from the Facebook tutorial:
 - Read this article [:book: Thinking in React (10 min.)](https://medium.com/@nimelrian/thinking-in-react-a-paradox-statement-33c19e2eb9e2)
 
 #### Exercises
-- [Exercises Day2](https://docs.google.com/document/d/1EYmpm-ssahbIvax8t0MxOEjAhw9cEvt8Ggu-tMULZB0/edit?usp=sharing) 
+- [Exercises Day2](https://docs.google.com/document/d/1kpN1zPUO1sWQnQeMIb89IoPpD6gFkkL82ccYpbBRGQM/edit?usp=sharing) 
 
 #### Slides
 - [React, the important parts](http://sem3slides.mydemos.dk/react2/react2.html#1)
