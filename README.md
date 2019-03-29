@@ -54,7 +54,7 @@ Read/skim these sections from the Facebook tutorial:
 [API interaction using fetch](https://docs.google.com/document/d/1Yv7bXR6ZgL_ZXJWvzawmTVD3tN42rJktulqxhGV-HuE/edit?usp=sharing)
 
 ## Recap on Threads, Futures, Callables and  Asynchronous Rest with Jax-rs,
-__Today we will recap on thread programming as you were introduced to last semester. More specifically we will introduce Callables and Futures in combination with Jax-rs's Asynchronous Server API. We need all this to make endpoints, which, in order to make a response, must communicate with a number of external API's__
+_Today we will recap on thread programming as you were introduced to last semester. More specifically we will introduce Callables and Futures in combination with Jax-rs's Asynchronous Server API. We need all this to make endpoints, which, in order to make a response, must communicate with a number of external API's_
 
 #### Read
 TBD
