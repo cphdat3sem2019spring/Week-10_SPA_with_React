@@ -66,10 +66,9 @@ _Today we will recap on thread programming as you were introduced to last semest
 [Asynchronous REST](https://docs.google.com/document/d/1OsXFt74ncTv9OBi8SNqUoXg6GmJnAYxRwbYClmQphKs/edit?usp=sharing)
 
 ## Friday
-TBD
-<!--
-[StudyPoint-exercises](https://docs.google.com/document/d/1MDLu8cWJCAokqhsPY_8jJu_RyUrJyLoh7HFXdz0M2oY/edit?usp=sharing)
--->
+
+[StudyPoint-exercises](https://docs.google.com/document/d/1ykahVZ2GeZl6kfB19zAmronDqWgMIZ9zWA3h3a7IUBA/edit?usp=sharing)
+
 
 ## Business competences
 
