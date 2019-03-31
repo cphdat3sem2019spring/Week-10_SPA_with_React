@@ -59,7 +59,7 @@ _Today we will recap on thread programming as you were introduced to last semest
 #### Read
 - :book: [Read page-1 of todays exercises, to see WHY you need todays topics (5 min.)](https://docs.google.com/document/d/1OsXFt74ncTv9OBi8SNqUoXg6GmJnAYxRwbYClmQphKs/edit?usp=sharing)
 - :book: [Java Callable Future Example (20 min. should give you time to execute the example)](https://www.journaldev.com/1090/java-callable-future-example)
-- :book: [Asynchronous REST with JAX-RS (10 min.)](Asynchronous Services) (Read until, dont include, section 11.1.1. Asynchronous Server-side Callbacks)
+- :book: [Asynchronous REST with JAX-RS (10 min.)](https://jersey.github.io/documentation/latest/async.html#d0e9895) (Read until, dont include, section 11.1.1. Asynchronous Server-side Callbacks)
 
 #### Exercises
 
