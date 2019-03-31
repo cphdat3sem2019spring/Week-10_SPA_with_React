@@ -46,7 +46,7 @@ Read/skim these sections from the Facebook tutorial:
 
 ## Wednesday - fetch, Promises and async-await
 #### Read
-- TBD :book: Read (again) the two links from yesterday, related to "lifting state up"
+- :book: Read (again) the two links from yesterday, related to "lifting state up"
 - [:book: fetch, with async, await (15 min.)](https://davidwalsh.name/async-await) about how to use fetch with the new JS construct async-await
 - [:book: Promises and Fetch Guidelines. Skim and bookmark (15 min.)](https://docs.google.com/document/d/1hF9P65v_AJKCjol_gFkm3oZ1eVTuOKc15V6pcb3iFa8/edit?usp=sharing) again 
 
@@ -57,10 +57,14 @@ Read/skim these sections from the Facebook tutorial:
 _Today we will recap on thread programming as you were introduced to last semester. More specifically we will introduce Callables and Futures in combination with Jax-rs's Asynchronous Server API. We need all this to make endpoints, which, in order to make a response, must communicate with a number of external API's_
 
 #### Read
-TBD
+- :book: [Read page-1 of todays exercises, to see WHY you need todays topics (5 min.)](https://docs.google.com/document/d/1OsXFt74ncTv9OBi8SNqUoXg6GmJnAYxRwbYClmQphKs/edit?usp=sharing)
+- :book: [Java Callable Future Example (20 min. should give you time to execute the example)](https://www.journaldev.com/1090/java-callable-future-example)
+- :book: [Asynchronous REST with JAX-RS (10 min.)](Asynchronous Services) (Read until, dont include, section 11.1.1. Asynchronous Server-side Callbacks)
 
 #### Exercises
-TBD
+
+[Asynchronous REST](https://docs.google.com/document/d/1OsXFt74ncTv9OBi8SNqUoXg6GmJnAYxRwbYClmQphKs/edit?usp=sharing)
+
 ## Friday
 TBD
 <!--
