@@ -64,6 +64,7 @@ _Today we will recap on thread programming as you were introduced to last semest
 #### Class Demo we will do together today:
 [class Demo](https://docs.google.com/document/d/129wkCzRTqH5wHL_GkppHEXXZk6Mocvq69UU47VxJEWA/edit?usp=sharing)
 
+#### Slides [Callable and Future](https://docs.google.com/presentation/d/1aI-4iprwhoc-SMURHFWBvumu5KoECKDc4hFYF2vCtMo/edit?usp=sharing)
 #### Exercises
 
 [Asynchronous REST](https://docs.google.com/document/d/1OsXFt74ncTv9OBi8SNqUoXg6GmJnAYxRwbYClmQphKs/edit?usp=sharing)
